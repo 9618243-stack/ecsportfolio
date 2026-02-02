@@ -21,7 +21,7 @@ body {
 	font: 100%/1.4 Courier New, monospace;
 }
 .nav {
-	background: #7E9DA6;
+	background: #363343;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -37,7 +37,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #7E9DA6;
+	background: #363343;
 	margin: 0px;
 	float: left;
 	width: 100%;
