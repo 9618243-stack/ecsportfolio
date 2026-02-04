@@ -31,7 +31,8 @@ body {
 }
 .content {
 	background: #F3EFEE;
-	margin: 0px;
+	margin: 10px;
+	padding: 5;
 	float: left;
 	width: 100%;
 	text-align: center;
